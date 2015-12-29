@@ -1,0 +1,170 @@
+body{
+	background-image: url("../background.jpg");
+	background-repeat:repeat-y;
+	background-size: 100%
+}
+
+.nav-center{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+}
+
+.navbar{
+	height: 75px;
+	opacity: 0.9;
+	border-radius: 0px 0px 0px 0px;
+}
+
+.carousel-caption{
+	font-size: 36px;
+	background-color: rgba(35,35,35, 0.66);
+	padding: 20px;
+	padding-top:1px;
+	text-align: left;
+}
+
+.container-body{
+	background-color: rgba(195,187,56,0.7);
+	border-radius: 10px;
+}
+
+.carousel-caption h4{
+	color: #D6D6D6;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-weight: bold;
+	font-size: 64px;
+}
+
+h2{
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 42px;
+}
+
+.caption-1{
+	right: 0%;
+	left: 60%;
+	height: 200px;
+}
+
+.caption-2{
+	left:0%;
+	right:70%;
+	top: 0%;
+}
+
+.caption-3{
+	left: 0%;
+	top: 0%;
+	height: 200px;
+	width: 55%;
+	padding: 50px;
+	padding-top: 1px;
+}
+
+.caption-4{
+	top: 30%;
+	bottom:40%;
+	left:10%;
+	right:50%;
+}
+
+.caption-5{
+	right:0%;
+	left: 70%;
+	top:0%;
+}
+
+footer{
+	background-color: #444444;
+	padding:5px;
+	padding-left: 50px;
+	height:75px;
+}
+
+.aperture{
+	height: 60px;
+	opacity: 0.5;
+	float: left;
+}
+
+.footer-text{
+	float: left;
+	vertical-align: middle;
+	color: #AAAAAA;
+	font-style: italic;
+	margin:10px;
+}
+
+.text-box-1{
+	background-color: rgba(170,103,29,0.8);
+	border-radius: 0px 10px 10px 0px;
+}
+.perk{
+	font-family: 'Arvo', sans-serif;
+	height: 350px;
+	padding-top:50px;
+	margin-top: 10px;
+}
+
+.perk p{
+	font-size: 18px;
+}
+.perk-1{
+	background-color: rgba(214,130,29,0.8);
+	border-radius: 10px 0px 0px 10px;
+}
+.perk-2{
+	background-color: rgba(0,164,211,0.8);
+}
+.perk-3{
+	background-color: rgba(214,130,29,0.8);
+}
+.perk-4{
+	background-color: rgba(0,164,211,0.8);
+	border-radius: 0px 10px 10px 0px;
+}
+.icon{
+	width: 100%;
+	font-size: 1000px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.apply-now{
+	background-color: rgba(170,103,29,0.8);
+	border-radius: 10px 0px 0px 10px;
+}
+form{
+	margin-left: 60px;
+	margin-right: 60px;
+}
+.form-control{
+	margin:10px;
+}
+.radio-went-missing{
+	width: 100%;
+	text-align: center;
+	margin-left: 10px;
+}
+hr{
+	border: 0px;
+	height: 1px;
+}
+.img-container{
+	padding: 0px;
+}
+.row-content {
+    display: table;
+}
+.col-same-height{
+	float: none;
+    display: table-cell;
+    vertical-align: top;
+}
+p{
+	font-size: 16px;
+}

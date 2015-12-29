@@ -1,15 +1,15 @@
 .navbar-default{
-background-color:rgba(0,0,0,0.8);
+
 width:100%;
 border:1px; solid transparent;
 border-radius:0%;
 height:80px;}
 
 .jumbotron{
-background:url('../pic.jpg');
+background-image: url("../pic.jpg");
 width:100%;
 height:600px;
-margin-top:-120px;}
+}
 
 
 @font-face{
@@ -17,16 +17,51 @@ font-family:"Portal";
 src: url('../portal.ttf');
 }
 
+
 .navbar-brand {
 font-family:'Portal';
-font-size:40px;
-margin-top:15px;
-text-align:center;
-margin-left:auto;
-margin-right:auto;
-display:block;
-color:white;
+font-size:50px;
+margin-top:100px;
+color: white;
+float: none;
+padding: 15px;
+text-align: center;
+width: 100%;
+vertical-align: bottom;
+}
+
+.navbar-header{
+	float: left;
+    text-align: center;
+    width: 100%;
 }
 
 .blue {
 color:#3399ff;}
+
+a{
+	vertical-align: center;
+}
+
+.panel1{
+	background-color: #222;
+	color: #EEE;
+}
+
+.panel2{
+	color: #DDD;
+}
+
+.panel2-1{
+	background-image: url(https://tctechcrunch2011.files.wordpress.com/2010/06/portal2-007.jpg);
+	background-size: 100% 100%;
+	color: #222;
+}
+
+.panel2-2{
+	background-color: #487A80;
+}
+
+p{
+	font-size: 16px;
+}
